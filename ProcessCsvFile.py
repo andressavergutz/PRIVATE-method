@@ -163,6 +163,7 @@ df_packet = pd.DataFrame()
 for i, file in tqdm(enumerate(csvfiles), unit = "csv_file"):
 	
 	atual = pd.read_csv(file)
+	
 	if atual.empty:
 		print("Warning >> CSV empty : " + file)	
 
