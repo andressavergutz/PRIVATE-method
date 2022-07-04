@@ -1,0 +1,29 @@
+**Informações sobre geração de tráfego falso**
+**FAKE-A Leles**
+
+**FAKE-A 600
+
+- pkt_count: 18600
+- pkt_tcp_ack_count: 16740
+- pkt_tcp_syn_count: 3720
+
+
+FAKE-A 1000
+
+- pkt_count: 31000
+- pkt_tcp_ack_count: 27900
+- pkt_tcp_syn_count: 6200
+
+
+FAKE-A 5000
+
+- pkt_count: 155000
+- pkt_tcp_ack_count: 139500
+- pkt_tcp_syn_count: 31000
+
+
+FAKE-A 1000-10000
+
+- pkt_count: 1540830
+- pkt_tcp_ack_count: 1386747
+- pkt_tcp_syn_count: 308166
