@@ -1,7 +1,5 @@
-FeatureExtraction - PRIVATE
+**IoTReGuard Method [old PRIVATE Method]**
 ============================
-
-###ESTADO ATUAL BY ANDRESSA
 
 FeatureExtraction requer Python v3 e Tshark instalados, e deve ser testado em um ambiente Linux (pode ser uma VM).
 
